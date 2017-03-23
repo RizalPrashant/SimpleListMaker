@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/menu/popup_menu.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/menu/popup_menu.xml"
+    },
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/menu/menufile.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/menu/menufile.xml"
+    }
+]

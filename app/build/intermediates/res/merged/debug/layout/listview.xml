@@ -1,0 +1,15 @@
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/label"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_alignBaseline="@+id/checkBox1"
+    android:layout_alignBottom="@+id/checkBox1"
+    android:layout_toRightOf="@+id/checkBox1"
+    android:padding="10dip"
+    android:textSize="16dip"
+    android:textColor="#D3D3D3"
+    android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+    android:checkMarkTint="@color/colorPrimary"
+    android:textStyle="bold">
+</CheckedTextView>
+    <!--</RelativeLayout>-->

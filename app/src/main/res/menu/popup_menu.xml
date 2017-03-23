@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title = "Remove"
+        android:orderInCategory="1"
+        android:id="@+id/remove_popup"
+        />
+    <item
+        android:title = "Rename"
+        android:orderInCategory="1"
+        android:id="@+id/rename_popup"
+        />
+
+</menu>

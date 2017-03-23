@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/menu/menufile.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/src/main/res/menu/menufile.xml"
+    },
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/menu/popup_menu.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/src/main/res/menu/popup_menu.xml"
+    },
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/menu/popup_menu.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/menu/popup_menu.xml"
+    },
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/menu/menufile.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/menu/menufile.xml"
+    }
+]
