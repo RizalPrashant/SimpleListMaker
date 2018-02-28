@@ -1,55 +1,55 @@
 [
     {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/com_shamanland_fab_circle_mini.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.6/res/drawable/com_shamanland_fab_circle_mini.xml"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/com_shamanland_fab_mini.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.6/res/drawable/com_shamanland_fab_mini.xml"
+    },
+    {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/your_image1_512x512.png",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/drawable/your_image1_512x512.png"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/twitterlist.jpg",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/drawable/twitterlist.jpg"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/your_image1_1024x500.png",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/drawable/your_image1_1024x500.png"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/your_image1.png",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/drawable/your_image1.png"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
@@ -60,36 +60,40 @@
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/com_shamanland_fab_normal.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.6/res/drawable/com_shamanland_fab_normal.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/ic_delete_white_24dp.png",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/drawable/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
@@ -100,12 +104,24 @@
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_check_material.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/com_shamanland_fab_circle_normal.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.6/res/drawable/com_shamanland_fab_circle_normal.xml"
+    },
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/com_shamanland_fab_shadow.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.6/res/drawable/com_shamanland_fab_shadow.xml"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
@@ -116,24 +132,16 @@
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/photo_camera.png",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/drawable/photo_camera.png"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/add_button.png",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/drawable/add_button.png"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_check_material.xml"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
@@ -144,19 +152,11 @@
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_dark.xml"
     }
 ]

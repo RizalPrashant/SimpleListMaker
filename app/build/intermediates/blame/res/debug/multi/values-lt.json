@@ -6,9 +6,9 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 115,
-                    "endOffset": 166
+                    "endOffset": 216
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -25,9 +25,9 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 171,
+                    "startOffset": 221,
                     "endColumn": 100,
-                    "endOffset": 267
+                    "endOffset": 317
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -44,9 +44,9 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 272,
+                    "startOffset": 322,
                     "endColumn": 112,
-                    "endOffset": 380
+                    "endOffset": 430
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -63,9 +63,9 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 385,
+                    "startOffset": 435,
                     "endColumn": 86,
-                    "endOffset": 467
+                    "endOffset": 517
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -82,9 +82,9 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 472,
+                    "startOffset": 522,
                     "endColumn": 108,
-                    "endOffset": 576
+                    "endOffset": 626
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -101,9 +101,9 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 581,
+                    "startOffset": 631,
                     "endColumn": 120,
-                    "endOffset": 697
+                    "endOffset": 747
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -120,9 +120,9 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 702,
+                    "startOffset": 752,
                     "endColumn": 108,
-                    "endOffset": 806
+                    "endOffset": 856
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -139,9 +139,9 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 811,
+                    "startOffset": 861,
                     "endColumn": 108,
-                    "endOffset": 915
+                    "endOffset": 965
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -158,9 +158,9 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 920,
+                    "startOffset": 970,
                     "endColumn": 99,
-                    "endOffset": 1015
+                    "endOffset": 1065
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -177,9 +177,9 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1020,
+                    "startOffset": 1070,
                     "endColumn": 109,
-                    "endOffset": 1125
+                    "endOffset": 1175
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -196,9 +196,9 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1130,
+                    "startOffset": 1180,
                     "endColumn": 103,
-                    "endOffset": 1229
+                    "endOffset": 1279
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -215,9 +215,9 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1234,
+                    "startOffset": 1284,
                     "endColumn": 112,
-                    "endOffset": 1342
+                    "endOffset": 1392
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -234,9 +234,9 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1347,
+                    "startOffset": 1397,
                     "endColumn": 129,
-                    "endOffset": 1472
+                    "endOffset": 1522
                 },
                 "from": {
                     "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
@@ -248,256 +248,327 @@
                         "endOffset": 1708
                     }
                 }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/res/merged/debug/values-lt/values-lt.xml",
-        "map": [
+            },
             {
                 "to": {
-                    "startLine": 2,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 115,
-                    "endOffset": 166
+                    "startOffset": 1527,
+                    "endColumn": 108,
+                    "endOffset": 1631
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 115,
-                        "endOffset": 402
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 104,
+                        "endOffset": 387
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 171,
-                    "endColumn": 100,
-                    "endOffset": 267
+                    "startOffset": 1636,
+                    "endColumn": 183,
+                    "endOffset": 1815
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 407,
-                        "endColumn": 100,
-                        "endOffset": 503
+                        "startColumn": 0,
+                        "startOffset": 388,
+                        "endColumn": 183,
+                        "endOffset": 571
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 272,
-                    "endColumn": 112,
-                    "endOffset": 380
+                    "startOffset": 1820,
+                    "endColumn": 133,
+                    "endOffset": 1949
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 508,
-                        "endColumn": 112,
-                        "endOffset": 616
+                        "startColumn": 0,
+                        "startOffset": 572,
+                        "endColumn": 129,
+                        "endOffset": 701
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 385,
-                    "endColumn": 86,
-                    "endOffset": 467
+                    "startOffset": 1954,
+                    "endColumn": 108,
+                    "endOffset": 2058
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 621,
-                        "endColumn": 86,
-                        "endOffset": 703
+                        "startColumn": 0,
+                        "startOffset": 702,
+                        "endColumn": 104,
+                        "endOffset": 806
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 472,
-                    "endColumn": 108,
-                    "endOffset": 576
+                    "startOffset": 2063,
+                    "endColumn": 211,
+                    "endOffset": 2270
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 708,
-                        "endColumn": 108,
-                        "endOffset": 812
+                        "startColumn": 0,
+                        "startOffset": 807,
+                        "endColumn": 211,
+                        "endOffset": 1018
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 581,
-                    "endColumn": 120,
-                    "endOffset": 697
+                    "startOffset": 2275,
+                    "endColumn": 131,
+                    "endOffset": 2402
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 817,
-                        "endColumn": 120,
-                        "endOffset": 933
+                        "startColumn": 0,
+                        "startOffset": 1019,
+                        "endColumn": 127,
+                        "endOffset": 1146
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 702,
-                    "endColumn": 108,
-                    "endOffset": 806
+                    "startOffset": 2407,
+                    "endColumn": 134,
+                    "endOffset": 2537
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 938,
-                        "endColumn": 108,
-                        "endOffset": 1042
+                        "startColumn": 0,
+                        "startOffset": 1147,
+                        "endColumn": 130,
+                        "endOffset": 1277
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 811,
-                    "endColumn": 108,
-                    "endOffset": 915
+                    "startOffset": 2542,
+                    "endColumn": 217,
+                    "endOffset": 2755
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values-lt/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 217,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2760,
+                    "endColumn": 224,
+                    "endOffset": 2980
+                },
+                "from": {
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1047,
-                        "endColumn": 108,
-                        "endOffset": 1151
+                        "startColumn": 0,
+                        "startOffset": 1278,
+                        "endColumn": 224,
+                        "endOffset": 1502
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 920,
-                    "endColumn": 99,
-                    "endOffset": 1015
+                    "startOffset": 2985,
+                    "endColumn": 110,
+                    "endOffset": 3091
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1156,
-                        "endColumn": 99,
-                        "endOffset": 1251
+                        "startColumn": 0,
+                        "startOffset": 1503,
+                        "endColumn": 106,
+                        "endOffset": 1609
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1020,
-                    "endColumn": 109,
-                    "endOffset": 1125
+                    "startOffset": 3096,
+                    "endColumn": 195,
+                    "endOffset": 3287
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1256,
-                        "endColumn": 109,
-                        "endOffset": 1361
+                        "startColumn": 0,
+                        "startOffset": 1610,
+                        "endColumn": 195,
+                        "endOffset": 1805
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1130,
-                    "endColumn": 103,
-                    "endOffset": 1229
+                    "startOffset": 3292,
+                    "endColumn": 135,
+                    "endOffset": 3423
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1366,
-                        "endColumn": 103,
-                        "endOffset": 1465
+                        "startColumn": 0,
+                        "startOffset": 1806,
+                        "endColumn": 131,
+                        "endOffset": 1937
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1234,
-                    "endColumn": 112,
-                    "endOffset": 1342
+                    "startOffset": 3428,
+                    "endColumn": 211,
+                    "endOffset": 3635
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1470,
-                        "endColumn": 112,
-                        "endOffset": 1578
+                        "startColumn": 0,
+                        "startOffset": 1938,
+                        "endColumn": 211,
+                        "endOffset": 2149
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1347,
-                    "endColumn": 129,
-                    "endOffset": 1472
+                    "startOffset": 3640,
+                    "endColumn": 179,
+                    "endOffset": 3815
                 },
                 "from": {
-                    "file": "/Users/RizalPrashant/AndroidStudioProjects/TestingOverflowMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-lt/values-lt.xml",
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
                     "position": {
                         "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1583,
-                        "endColumn": 129,
-                        "endOffset": 1708
+                        "startColumn": 0,
+                        "startOffset": 2150,
+                        "endColumn": 175,
+                        "endOffset": 2325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3820,
+                    "endColumn": 97,
+                    "endOffset": 3913
+                },
+                "from": {
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2326,
+                        "endColumn": 93,
+                        "endOffset": 2419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3918,
+                    "endColumn": 95,
+                    "endOffset": 4009
+                },
+                "from": {
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2420,
+                        "endColumn": 91,
+                        "endOffset": 2511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4014,
+                    "endColumn": 118,
+                    "endOffset": 4128
+                },
+                "from": {
+                    "file": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-lt/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2512,
+                        "endColumn": 114,
+                        "endOffset": 2626
                     }
                 }
             }

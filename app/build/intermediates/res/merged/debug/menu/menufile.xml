@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    >
 <item
     android:title = "Remove all"
     android:orderInCategory="2"
@@ -18,11 +20,22 @@
     <item
         android:title = "Remove Checked items"
         android:orderInCategory="4"
+        app:showAsAction = "always"
+        android:icon="@drawable/ic_delete_white_24dp"
         android:id="@+id/remove_checked_menu"
+        />
+    <item
+        android:title = "Camera"
+        android:orderInCategory="4"
+        app:showAsAction = "always"
+        android:icon="@drawable/photo_camera"
+        android:id="@+id/camera"
         />
     <item
         android:title = "Share list"
         android:orderInCategory="5"
+        android:icon="@drawable/abc_ic_menu_share_mtrl_alpha"
         android:id="@+id/phone_number"
+        app:showAsAction="always"
         />
 </menu>

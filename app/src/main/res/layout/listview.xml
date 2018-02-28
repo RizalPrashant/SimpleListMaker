@@ -7,7 +7,7 @@
     android:layout_toRightOf="@+id/checkBox1"
     android:padding="10dip"
     android:textSize="16dip"
-    android:textColor="#D3D3D3"
+    android:textColor="#404040"
     android:checkMark="?android:attr/listChoiceIndicatorMultiple"
     android:checkMarkTint="@color/colorPrimary"
     android:textStyle="bold">

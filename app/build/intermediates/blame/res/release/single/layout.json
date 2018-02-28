@@ -72,12 +72,16 @@
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_bar_title_item.xml"
     },
     {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_media_cancel_action.xml"
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/activity_help.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/layout/activity_help.xml"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
@@ -116,12 +120,12 @@
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_media_action.xml"
-    },
-    {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_media_action.xml"
     },
     {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
@@ -148,11 +152,11 @@
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/listview.xml",
-        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/layout/listview.xml"
-    },
-    {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/layout/listview.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/layout/listview.xml"
     }
 ]

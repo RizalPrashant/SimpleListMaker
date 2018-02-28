@@ -1,4 +1,4 @@
-package com.prashantrizal.android.testingoverflowmenu;
+package com.prashantrizal.android.listmaker;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -13,6 +13,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.WindowManager;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
@@ -21,15 +22,17 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
     private static final String SHARED_PREFS_NAME = "MY_SHARED_PREF";
+    //DatabaseHelper myDB;
     EditText user_input;
-    ArrayList<String> list_of_items;
+    static ArrayList<String> list_of_items;
     ArrayAdapter adapter;
-    ListView listView;
+    static ListView listView;
     static int pos;
      Button button_delete;
      Button button_unmark;
@@ -39,29 +42,30 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         list_of_items = getArray();
+        Collections.sort(list_of_items);
 
-        button_delete = (Button) findViewById(R.id.button_delete);
-        button_unmark = (Button) findViewById(R.id.button_unmark);
-        button_delete.setVisibility(View.GONE);
-        button_unmark.setVisibility(View.GONE);
+        //button_delete = (Button) findViewById(R.id.button_delete);
+        //button_unmark = (Button) findViewById(R.id.button_unmark);
+       // button_delete.setVisibility(View.GONE);
+        //button_unmark.setVisibility(View.GONE);
 
         listView = (ListView) findViewById(R.id.listView1);
         listView.setChoiceMode(ListView.CHOICE_MODE_MULTIPLE);
 
-        button_delete.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                remove_checked();
-                hide_and_show_buttons();
-            }
-        });
-        button_unmark.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                uncheck_all();
-                hide_and_show_buttons();
-            }
-        });
+//        button_delete.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                remove_checked();
+//                hide_and_show_buttons();
+//            }
+//        });
+//        button_unmark.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                uncheck_all();
+//                hide_and_show_buttons();
+//            }
+//        });
 
          adapter = new ArrayAdapter<String>(this, R.layout.listview, list_of_items);
         listView.setAdapter(adapter);
@@ -69,26 +73,26 @@ public class MainActivity extends AppCompatActivity {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                hide_and_show_buttons();
+            //    hide_and_show_buttons();
             }
         });
     }
 
-        public void hide_and_show_buttons(){
-            SparseBooleanArray checked = listView.getCheckedItemPositions();
-            for (int i = 0; i < list_of_items.size(); i++) {
-                if (checked.get(i)) {
-                    button_delete.setVisibility(View.VISIBLE);
-                    button_unmark.setVisibility(View.VISIBLE);
-                    button_delete.setEnabled(true);
-                    button_unmark.setEnabled(true);
-                    return;
-                } else {
-                    button_delete.setVisibility(View.GONE);
-                    button_unmark.setVisibility(View.GONE);
-                }
-            }
-        }
+//        public void hide_and_show_buttons(){
+//            SparseBooleanArray checked = listView.getCheckedItemPositions();
+//            for (int i = 0; i < list_of_items.size(); i++) {
+//                if (checked.get(i)) {
+//                    button_delete.setVisibility(View.VISIBLE);
+//                    button_unmark.setVisibility(View.VISIBLE);
+//                    button_delete.setEnabled(true);
+//                    button_unmark.setEnabled(true);
+//                    return;
+//                } else {
+//                    button_delete.setVisibility(View.GONE);
+//                    button_unmark.setVisibility(View.GONE);
+//                }
+//            }
+//        }
 
     @Override
     public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
@@ -107,34 +111,39 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(getApplicationContext(), "Removed 1 item", Toast.LENGTH_SHORT).show();
             listView.invalidateViews();
             saveArray();
-            hide_and_show_buttons();
+           // hide_and_show_buttons();
 
 
         }
         if (item.getTitle().equals("Rename")) {
             final AdapterView.AdapterContextMenuInfo menuInfo = (AdapterView.AdapterContextMenuInfo) item.getMenuInfo();
-            final AlertDialog.Builder ren_dialog = new AlertDialog.Builder(this).setTitle("Rename").setMessage("Rename the item");
+            final AlertDialog.Builder b = new AlertDialog.Builder(this).setTitle("Rename").setMessage("Rename the item");
             user_input = new EditText(this);
-            ren_dialog.setView(user_input);
-            ren_dialog.setPositiveButton("Done", new DialogInterface.OnClickListener() {
+            user_input.setText(list_of_items.get(menuInfo.position));
+            user_input.setSelectAllOnFocus(true);
+            b.setView(user_input);
+
+            b.setPositiveButton("Done", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
                     list_of_items.set(menuInfo.position, user_input.getText().toString());
                     listView.invalidateViews();
-
+                    Collections.sort(list_of_items);
                     Toast.makeText(getApplicationContext(), "Renamed", Toast.LENGTH_SHORT).show();
                 }
             });
-            ren_dialog.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            b.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
                     Toast.makeText(getApplicationContext(), "Not added!", Toast.LENGTH_SHORT).show();
                     dialog.dismiss();
                 }
             });
+            AlertDialog ren_dialog = b.create();
+            ren_dialog.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_VISIBLE);
             ren_dialog.show();
             saveArray();
-            hide_and_show_buttons();
+          //  hide_and_show_buttons();
 
         }
 
@@ -162,8 +171,8 @@ public class MainActivity extends AppCompatActivity {
         });
         dialog2.show();
         saveArray();
-        button_delete.setVisibility(View.GONE);
-        button_unmark.setVisibility(View.GONE);
+       // button_delete.setVisibility(View.GONE);
+        //button_unmark.setVisibility(View.GONE);
 
 
     }
@@ -175,10 +184,16 @@ public class MainActivity extends AppCompatActivity {
         myDialog.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
-                list_of_items.add(user_input.getText().toString());
-                listView.invalidateViews();
-
-                Toast.makeText(getApplicationContext(), "Added!", Toast.LENGTH_SHORT).show();
+                if(user_input.getText().toString().equals("")){
+                    Toast.makeText(getApplicationContext(), "Not added!", Toast.LENGTH_SHORT).show();
+                    dialog.dismiss();
+                }
+                else {
+                    list_of_items.add(user_input.getText().toString());
+                    listView.invalidateViews();
+                    Collections.sort(list_of_items);
+                    Toast.makeText(getApplicationContext(), "Added!", Toast.LENGTH_SHORT).show();
+                }
             }
         });
         myDialog.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
@@ -190,7 +205,7 @@ public class MainActivity extends AppCompatActivity {
         });
         myDialog.show();
         saveArray();
-        hide_and_show_buttons();
+        //  hide_and_show_buttons();
 
     }
 
@@ -199,21 +214,21 @@ public class MainActivity extends AppCompatActivity {
             //Replace R.id.checkbox with the id of CheckBox in your layout
             listView.setItemChecked(i, false);
         }
-        hide_and_show_buttons();
+      //  hide_and_show_buttons();
 
     }
     public void remove_checked(){
-        SparseBooleanArray checkedItemPositions = listView.getCheckedItemPositions();
+        SparseBooleanArray checkedItemPositions = listView.getCheckedItemPositions(); // returns array of true and false
         int itemCount = listView.getCount();
 
         for(int i=itemCount-1; i >= 0; i--){
-            if(checkedItemPositions.get(i)){
+            if(checkedItemPositions.get(i)){    // checks if the item from the boolean array is true or not
                 adapter.remove(list_of_items.get(i));
             }
         }
         checkedItemPositions.clear();
         adapter.notifyDataSetChanged();
-        hide_and_show_buttons();
+      //  hide_and_show_buttons();
 
     }
 
@@ -236,7 +251,10 @@ public class MainActivity extends AppCompatActivity {
         inflater.inflate(R.menu.menufile, menu);
         return true;
     }
-
+    public void changeScreen(){
+        Intent intent = new Intent(this, HelpActivity.class);
+        startActivity(intent);
+    }
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle item selection
         switch (item.getItemId()) {
@@ -254,6 +272,9 @@ public class MainActivity extends AppCompatActivity {
                 return true;
             case R.id.remove_checked_menu:
                 remove_checked();
+                return true;
+            case R.id.camera:
+                changeScreen();
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
@@ -305,12 +326,24 @@ public class MainActivity extends AppCompatActivity {
 //            myDialog.show();
         }
     public boolean saveArray() {
+        //for(int i = 0; i < list_of_items.size(); i++) {
+         //   myDB.deleteData(list_of_items.get(i));
+          //  myDB.insertData(list_of_items.get(i));
+
+        //}
+         //This is how I used shared prefs
         SharedPreferences sp = this.getSharedPreferences(SHARED_PREFS_NAME, Activity.MODE_PRIVATE);
         SharedPreferences.Editor mEdit1 = sp.edit();
         Set<String> set = new HashSet<String>();
         set.addAll(list_of_items);
         mEdit1.putStringSet("list", set);
         return mEdit1.commit();
+
+
+    }
+    //FloatingActionButton myFAB = (FloatingActionButton) findViewById(R.id.myFAB);
+    public void runThis(View v){
+        addItem();
     }
 
     public ArrayList<String> getArray() {
@@ -320,9 +353,12 @@ public class MainActivity extends AppCompatActivity {
         Set<String> set = sp.getStringSet("list", new HashSet<String>());
 
         return new ArrayList<String>(set);
+
     }
+
     public void onStop() {
         saveArray();
         super.onStop();
     }
+
 }

@@ -4,7 +4,7 @@ android {
     compileSdkVersion 22
     buildToolsVersion "23.0.2"
     defaultConfig {
-        applicationId "com.prashantrizal.android.testingoverflowmenu"
+        applicationId "com.prashantrizal.android.listmaker"
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 1
@@ -24,4 +24,6 @@ dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:22.2.1'
+    compile 'com.shamanland:fab:0.0.6'
+    compile 'com.google.android.gms:play-services-vision:9.8.0'
 }

@@ -4,6 +4,10 @@
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/menu/popup_menu.xml"
     },
     {
+        "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/menu/menuhelpfile.xml",
+        "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/menu/menuhelpfile.xml"
+    },
+    {
         "merged": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/build/intermediates/res/merged/release/menu/menufile.xml",
         "source": "/Users/RizalPrashant/AndroidStudioProjects/SimpleGroceryListMaker/app/src/main/res/menu/menufile.xml"
     }

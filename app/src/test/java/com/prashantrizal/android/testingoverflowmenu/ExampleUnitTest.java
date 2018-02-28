@@ -1,4 +1,4 @@
-package com.prashantrizal.android.testingoverflowmenu;
+package com.prashantrizal.android.listmaker;
 
 import org.junit.Test;
 
